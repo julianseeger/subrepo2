@@ -1,0 +1,12 @@
+{
+    "name": "julianseeger/subrepo2",
+    "require": {
+        "phpunit/phpunit": "~4.7"
+    },
+    "authors": [
+        {
+            "name": "Julian Seeger",
+            "email": "seeger.julian@gmail.com"
+        }
+    ]
+}
